@@ -44,20 +44,4 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnnaZaidi009&show_icons=true&theme=radical" alt="Anna's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnaZaidi009&theme=radical" alt="Anna's streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaZaidi009&layout=compact&theme=radical" alt="Anna's top languages"/>
-</p>
-
----
-
 <h3 align="center">✨ “Building scalable solutions, one commit at a time.” ✨</h3>
